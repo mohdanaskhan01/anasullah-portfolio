@@ -15,7 +15,7 @@ const PROFILE = {
   email: 'mohammedanaskhan97@gmail.com',
   location: 'Hyderabad, Telangana, India',
   github: 'https://github.com/mohdanaskhan01',
-  linkedin:'https://www.linkedin.com/in/mohammed-anasullah-khan',
+  linkedin:'https://www.linkedin.com/in/mohmmed-anasullah-khan/',
   resume: './resume.pdf',
 };
 
