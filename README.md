@@ -1,7 +1,7 @@
 # Mohammed Anasullah Khan — Cloud & DevOps Portfolio
 
 🌐 **Live Portfolio:** [https://mohdanaskhan01.github.io/anasullah-portfolio/](https://mohdanaskhan01.github.io/anasullah-portfolio/)  
-📫 **LinkedIn:** [https://www.linkedin.com/in/mohmmed-anasullah-khan/](https://www.linkedin.com/in/mohammed-anasullah-khan) | **Email:** mohammedanaskhan97@gmail.com | **Location:** Hyderabad, India
+📫 **LinkedIn:** [https://www.linkedin.com/in/mohmmed-anasullah-khan/](https://www.linkedin.com/in/mohmmed-anasullah-khan/)| **Email:** mohammedanaskhan97@gmail.com | **Location:** Hyderabad, India
 
 ---
 
