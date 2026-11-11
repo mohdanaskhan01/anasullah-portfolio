@@ -14,9 +14,9 @@ const PROFILE = {
   shortName: 'Anasullah',
   email: 'mohammedanaskhan97@gmail.com',
   location: 'Hyderabad, Telangana, India',
-  github: '', // Add your GitHub profile URL here
-  linkedin: '', // Add your LinkedIn profile URL here
-  resume: '', // Add /resume.pdf after placing your real resume in public/
+  github: 'https://github.com/mohdanaskhan01',
+  linkedin:'https://www.linkedin.com/in/mohammed-anasullah-khan',
+  resume: './resume.pdf',
 };
 
 const navItems = [
